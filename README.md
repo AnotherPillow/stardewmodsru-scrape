@@ -1,4 +1,4 @@
-# 6squad-stardewmodsru-scrape
+# stardewmodsru-scrape
 
 To install dependencies:
 
