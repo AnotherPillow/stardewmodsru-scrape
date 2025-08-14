@@ -1,0 +1,12 @@
+{
+  "name": "stardewmodsru-scrape",
+  "module": "generate-page.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
